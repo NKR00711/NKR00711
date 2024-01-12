@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/NKR00711"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKR00711&layout=compact&theme=buefy&hide_border=true" /></a>
+| <a href="https://github.com/NKR00711"><img align="center" src="https://github-readme-stats-rho-lilac-21.vercel.app/api?username=NKR00711&show_icons=true&theme=buefy&hide_border=true" alt="NKR's github stats" /></a> | <a href="https://github.com/NKR00711"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKR00711&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 ![](https://komarev.com/ghpvc/?username=NKR00711)
 ![](https://hit.yhype.me/github/profile?user_id=14344392)
