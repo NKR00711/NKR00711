@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<a href="https://github.com/NKR00711"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKR00711&layout=compact&theme=buefy&hide_border=true" /></a>
+
+![](https://komarev.com/ghpvc/?username=NKR00711)
+![](https://hit.yhype.me/github/profile?user_id=14344392)
+
+#### Some Links
+* [LinkTree](https://linktr.ee/nkr00711)
 <!--
 **NKR00711/NKR00711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
