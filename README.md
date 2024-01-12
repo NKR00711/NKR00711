@@ -8,7 +8,7 @@
 #### Some Links
 * [LinkTree](https://linktr.ee/nkr00711)
 <!--
-**NKR00711/NKR00711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NKR00711/NKR00711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Yup
 
 Here are some ideas to get you started:
 
